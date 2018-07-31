@@ -1,0 +1,11 @@
+<app-logo></app-logo>
+<div [ngClass]="{'game-over': game_over, 'hide': !game_over}" class="game-over">
+  <p>GAME oVER</p>
+  <p class="score">YoUR SCoRE: <span class="value">{{ score }}</span></p>
+  <p class="score"><input placeholder="Enter your name here!" class="value" (keyup)="onKey($event)"></p>
+  <button class="submit" type="button" (click)="submitRank()">Submit</button>
+</div>
+<h1 [ngClass]="{'hide': game_over}" class="ranking">RANKING</h1>
+<div [ngClass]="{'ranking': !game_over, 'hide': game_over}" *ngFor="let rank of ranking">
+  <p class="name">{{ rank.name }} - <span class="value">{{ rank.score }}</span></p>
+</div>

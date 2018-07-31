@@ -1,0 +1,11 @@
+<app-logo></app-logo>
+<app-timer [game_over]="game_over" [score]="score"></app-timer>
+<app-char-info [character]="character" (showInfo)="closeInfo($event)" [ngClass]="{'show-info': show_info, 'hide-info': !show_info}"></app-char-info>
+<div class="character-list">
+  <div class="character-box" *ngFor="let character of data.results; let i = index">
+    <div [ngClass]="{'wrong': character.miss, 'done': character.done}"></div>
+    <img src="../../assets/characters/dt-vader.png" class="character">
+    <a class="green option" (click)="inputValue(i)">?</a>
+    <a class="red option" (click)="showInfo(i)">...</a>
+  </div>
+</div>

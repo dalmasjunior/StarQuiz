@@ -1,0 +1,13 @@
+.play {
+    color: #ffe919;
+    background-color: #000;
+    border-color: #ffe919;
+    font-size: 5em;
+    width: 49%;
+    font-family: Starjedi;
+    margin-left: 1%;
+}
+
+app-logo {
+    font-size: 15em;
+}

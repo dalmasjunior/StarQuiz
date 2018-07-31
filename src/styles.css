@@ -1,1 +1,40 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+html, body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000 url(//cssanimation.rocks/demo/starwars/images/bg.jpg);
+    color: #fff;
+}
+
+.character {
+    max-width: 115px;
+    margin: 15px auto 0 auto;
+    display: block;
+    background-color: #fff;
+    border-radius: 35%;
+}
+
+@font-face {
+    font-family: Starjout;
+    src: url(./assets/fonts/Starjout.ttf);
+}
+
+@font-face {
+    font-family: Starjedi;
+    src: url(./assets/fonts/Starjedi.ttf);
+}
+
+@font-face {
+    font-family: Starjhol;
+    src: url(./assets/fonts/Starjhol.ttf);
+}
+
+@font-face {
+    font-family: SFOutline;
+    src: url(./assets/fonts/SFOutline.ttf);
+}

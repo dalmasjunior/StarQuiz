@@ -1,0 +1,9 @@
+.logo {
+    cursor: pointer;
+}
+.logo p {
+    color: #ffe919;
+    font-family: SFOutline;
+    font-size: inherit;
+    line-height: 0.8;
+}

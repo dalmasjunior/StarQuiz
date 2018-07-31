@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.65621mm"
+   height="15.406194mm"
+   viewBox="0 0 29.65621 15.406194"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient4557"
+       gradientUnits="userSpaceOnUse"
+       x="32.519531"
+       y="21.467819">
+      <meshrow
+         id="meshrow11151">
+        <meshpatch
+           id="meshpatch11153">
+          <stop
+             path="c 37.3967,0  74.7934,0  112.19,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop11155" />
+          <stop
+             path="c 0,25.8359  -0.131398,3.5792  -0.131402,29.4147"
+             style="stop-color:#ffe919;stop-opacity:1"
+             id="stop11157" />
+          <stop
+             path="c -30.301,-0.392234  -74.9249,-0.393196  -112.321,-0.394206"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop11159" />
+          <stop
+             path="c 0.00108555,-25.835  0.26389,-3.1837  0.262804,-29.0205"
+             style="stop-color:#ffe919;stop-opacity:1"
+             id="stop11161" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.6102367"
+     inkscape:cx="64.7749"
+     inkscape:cy="11.438572"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.8933417,-5.8538611)">
+    <g
+       id="g11175">
+      <g
+         transform="translate(0.20860061,0.17383384)"
+         id="g4540">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Star Jedi Hollow';-inkscape-font-specification:'Star Jedi Hollow';letter-spacing:0px;word-spacing:0px;fill:url(#meshgradient4557);fill-opacity:1;stroke:none"
+           transform="scale(0.26458333)"><flowRegion
+             id="flowRegion12"
+             style="fill:#ffe919;fill-opacity:1"><rect
+               id="rect14"
+               width="678.82251"
+               height="463.66"
+               x="32.324883"
+               y="10.341733"
+               style="fill:#ffe919;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara18"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Distant Galaxy AltOutline';-inkscape-font-specification:'SF Distant Galaxy AltOutline';fill:#ffe919;fill-opacity:1">sTar</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#ffe919;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.208677,10.626134 -0.03477,2.120773"
+           id="path4532"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         id="text11165"
+         y="21.125696"
+         x="11.021066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:'Star Jedi Hollow';-inkscape-font-specification:'Star Jedi Hollow';letter-spacing:-0.43656248px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffe919;fill-opacity:1;stroke-width:0.26458332"
+           y="21.125696"
+           x="11.021066"
+           id="tspan11163"
+           sodipodi:role="line">quiz</tspan></text>
+    </g>
+  </g>
+</svg>

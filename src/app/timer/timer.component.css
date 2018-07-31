@@ -1,0 +1,8 @@
+.timer {
+    color: #ffffff;
+    font-size: 3em;
+    width: 110%;
+    text-align: right;
+    font-family: Starjout;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #A520DA, 0 0 70px #A520DA, 0 0 80px #A520DA, 0 0 100px #A520DA, 0 0 150px #A520DA;
+}

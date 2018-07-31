@@ -1,0 +1,57 @@
+.game-over {
+    font-family: Starjout;
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+}
+
+.game-over p{
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000, 0 0 100px #ff0000, 0 0 150px #ff0000;
+}
+
+.game-over .score{
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #A520DA, 0 0 70px #A520DA, 0 0 80px #A520DA, 0 0 100px #A520DA, 0 0 150px #A520DA;
+}
+
+.score .value {
+    color: #fff;
+    background-color: transparent;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.submit {
+    color: #ffe919;
+    background-color: transparent;
+    border-color: #ffe919;
+    font-size: 1em;
+    font-family: Starjedi;
+    padding-left: 2%;
+    padding-bottom: 1.5%;
+}
+
+.hide {
+    display: none;
+}
+
+.ranking {
+    color: #ffe919;
+    font-family: SFOutline;
+    font-size: inherit;
+    line-height: 0.8;
+    font-size: 5em;
+}
+
+.name {
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #00ff00, 0 0 70px #00ff00, 0 0 80px #00ff00, 0 0 100px #00ff00, 0 0 150px #00ff00;
+    background-color: transparent;
+    font-size: 0.35em;   
+}
+
+app-logo {
+    font-size: 5em;
+    position: absolute;
+    margin-left: -10%;
+    margin-top: -2%;
+}
